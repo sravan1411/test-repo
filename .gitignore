@@ -1,0 +1,10 @@
+*.o
+
+*.layout
+
+*.dev
+
+*.exe
+
+db.dat
+db.idx
